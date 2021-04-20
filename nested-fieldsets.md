@@ -1,4 +1,4 @@
-# Nested fieldsets
+# Nested fieldset
 
 
 
@@ -30,5 +30,6 @@
 
 ## References
 
-[Fieldset - GDS] (https://design-system.service.gov.uk/components/fieldset/)
-[Using the fieldset and legend elements] (https://accessibility.blog.gov.uk/2016/07/22/using-the-fieldset-and-legend-elements/)
+[Fieldset - GDS](https://design-system.service.gov.uk/components/fieldset/)
+
+[Using the fieldset and legend elements](https://accessibility.blog.gov.uk/2016/07/22/using-the-fieldset-and-legend-elements/)

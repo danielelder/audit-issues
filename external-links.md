@@ -2,6 +2,10 @@
 
 External links should contain text informing the user that they be taken to a new browser tab if they click it. 
 
+## WCAG
+
+This is not a WCAG fail, but consistant navigation it does benefit all users and may prevent frustration for some users.
+
 ## Audit template text
 
 **Issue:** External link missing 'opens in a new tab' text

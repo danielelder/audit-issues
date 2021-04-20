@@ -16,7 +16,7 @@ This is not a WCAG fail, but consistant navigation does benefit all users and ma
 
 **URL:** 
 
-**Description:** External links should contain text informing the user that they be taken to a new browser tab. This will help assistive technology users understand the result of the action and help prevent them getting disorientated when the browser back button is unavailable.
+**Description:** External links should contain text informing the user that they will be taken to a new browser tab. This will help assistive technology users understand the result of the action and help prevent them possibly getting disorientated when the browser back button is unavailable.
 
 **Resolve:** Add ‘opens in new tab’ as part of the visible link which opens in the new tab. The text should be part of the link to make it easily identifiable for all users as well as being announced as part of the link for assistive technology users.
 

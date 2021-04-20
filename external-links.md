@@ -10,7 +10,7 @@ This is not a WCAG fail, but consistant navigation it does benefit all users and
 
 ### Description
 
-**Issue:** External link missing 'opens in a new tab' text
+**Issue:** Missing ‘opens in new tab’ as part of the link
 
 **Page:**
 
@@ -30,4 +30,4 @@ This is not a WCAG fail, but consistant navigation it does benefit all users and
 
 | Priority | Issue | 
 | -------- | ----- | 
-| 🟠 2     | #1730: Missing ‘opens in new tab’ as part of the link |
+| 🟠 2     | #[issue]: Missing ‘opens in new tab’ as part of the link |

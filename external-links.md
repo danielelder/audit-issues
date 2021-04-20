@@ -2,9 +2,9 @@
 
 An external link is a link that takes the user away from the current website or journey by opening the destination in a new tab.
 
-It's beneficial for users to know that a new tab will open as it helps prevent disorientation and/or frustration especially for users of assistive technology.
+It's beneficial for users to know that a new tab will open as it helps prevent disorientation especially for users of assistive technology.
 
-This is not a WCAG fail, but consistant navigation it does benefit all users and may prevent frustration for some users.
+This is not a WCAG fail, but consistant navigation does benefit all users and may prevent frustration for some users.
 
 ## Audit template
 

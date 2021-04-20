@@ -1,6 +1,8 @@
 # External links
 
-External links should contain text informing the user that they be taken to a new browser tab if they click it. 
+An external link is a link that takes the user away from the current website or journey by opening the destination in a new tab.
+
+Its beneficial for users to know that a new tab will open as it helps prevent disorientation and/or frustration especially for users of assistive technology.
 
 ## WCAG
 

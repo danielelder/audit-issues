@@ -12,7 +12,7 @@
 
 **URL:**
 
-**Description:** When switching the langauge of the page to Welsh some parts remain as English and are not marked up with the appropriate language attribute to differentiate them from the other content.
+**Description:** When switching the language of the page to Welsh some parts remain as English and are not marked up with the appropriate language attribute to differentiate them from the other content.
 
 * the skip link is not translated
 

@@ -26,7 +26,7 @@ It is possible to nest a fieldset inside another fieldset. Although it is valid 
 
 | Priority | Issue | Fix verified |
 | -------- | ----- | ------------ |
-| 🟠 2     | #[issue]: Nested fieldsets | |
+| 🔴 1     | #[issue]: Nested fieldsets | |
 
 ## Accessibility Statement
 

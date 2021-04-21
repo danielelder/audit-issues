@@ -19,7 +19,7 @@
 **Resolve:** 
 
 * the skip link is currently hard-coded as English in the Gov template in play-frontend-govuk
-However it is possible to send an ovverride skip link to the @skipLinkBlock code block and with that send the correct translation. If doing this you should ensure you use the skip link component (as the template does) rather than developing your own version.
+However it is possible to send an override skip link to the @skipLinkBlock code block and with that send the correct translation. If doing this you should ensure you use the skip link component (as the template does) rather than developing your own version.
 
 ### Labels
 

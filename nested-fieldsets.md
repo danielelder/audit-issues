@@ -2,6 +2,8 @@
 
 It is possible to nest a fieldset inside another fieldset. Although it is valid markup, screen readers do not automatically indicate the end of a fieldset which can make if difficult for users to confidently know which fields belong to which fieldset.
 
+This is not a WCAG fail, but as it can cause difficulty for screen reader users it has been given the classification of **priority 1 (must fix)**.
+
 ## Audit template
 
 ### Description

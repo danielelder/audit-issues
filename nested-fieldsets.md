@@ -28,6 +28,10 @@ It is possible to nest a fieldset inside another fieldset. Although it is valid 
 | -------- | ----- | ------------ |
 | 🟠 2     | #[issue]: Nested fieldsets | |
 
+## Accessibility Statement
+
+It should be documented in your accessibility statement if you do not resolve this issue.
+
 ## References
 
 [Fieldset - GOV.UK Design System](https://design-system.service.gov.uk/components/fieldset/)

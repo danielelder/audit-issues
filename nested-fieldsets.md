@@ -1,4 +1,4 @@
-# Nested fieldset
+# Nested fieldsets
 
 It is possible to nest a fieldset inside another fieldset. Although it is valid markup, screen readers do not automatically indicate the end of a fieldset which can make if difficult for users to confidently know which fields belong to which fieldset.
 

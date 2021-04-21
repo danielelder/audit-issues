@@ -28,9 +28,9 @@ This is not a WCAG fail, but consistant navigation does benefit all users and ma
 
 ## WCAG violation summary
 
-| Priority | Issue | Fix verified |
-| -------- | ----- | ------------ |
-| 🟠 2     | #[issue]: Missing ‘opens in new tab’ as part of the link | |
+| Priority | Issue |
+| -------- | ----- |
+| 🟠 2     | #[issue]: Missing ‘opens in new tab’ as part of the link |
 
 ## Accessibility Statement
 

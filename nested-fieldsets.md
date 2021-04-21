@@ -24,9 +24,9 @@ It is possible to nest a fieldset inside another fieldset. Although it is valid 
 
 ## WCAG violation summary
 
-| Priority | Issue | Fix verified |
-| -------- | ----- | ------------ |
-| 🔴 1     | #[issue]: Nested fieldsets | |
+| Priority | Issue |
+| -------- | ----- | 
+| 🔴 1     | #[issue]: Nested fieldsets |
 
 ## Accessibility Statement
 

@@ -1,24 +1,19 @@
-# Welsh translations
+# Issue: Content not translated to Welsh [draft]
 
-## Audit template
+When switching the language of the page to Welsh some parts remain as English and are not marked up with the appropriate language attribute to differentiate them from the other content.
 
-### Description
+This is a WCAG 2.1 failure: 3.1.2: Language of Parts - [Understanding Success Criterion 3.1.2: Language of Parts](https://www.w3.org/WAI/WCAG21/Understanding/language-of-parts.html)
 
-**Issue:** Content not translated to Welsh
+## To Resolve:
 
-**WCAG 2.1 failure:** 3.1.2: Language of Parts - https://www.w3.org/WAI/WCAG21/Understanding/language-of-parts.html
+For each item if content that should not be translated into Welsh, add the english language attribute.
 
-**Page:**
+For all other content add the Welsh translation into the relevent configuration files.
 
-**URL:**
+### Skip link
 
-**Description:** When switching the language of the page to Welsh some parts remain as English and are not marked up with the appropriate language attribute to differentiate them from the other content.
+The skip link is currently hard-coded as English in the Gov template in play-frontend-govuk.
 
-* the skip link is not translated
-
-**Resolve:** 
-
-* the skip link is currently hard-coded as English in the Gov template in play-frontend-govuk
 However it is possible to send an override skip link to the @skipLinkBlock code block and with that send the correct translation. If doing this you should ensure you use the skip link component (as the template does) rather than developing your own version.
 
 ### Labels
@@ -27,8 +22,14 @@ However it is possible to send an override skip link to the @skipLinkBlock code 
 * wcag 3.1.2 (AA)
 * welsh language toggle
 
-## WCAG violation summary
+## Report
 
 | Status | Level | Issue | Success Criterion |
 | ------ | ----- | ----- | ----------------- |
 | 🟠 (M) | AA    | #[issue]: Content not translated to Welsh | 3.1.2 Language of parts |
+
+## References
+
+[HMRC Design Pattern - Language toggle](https://design.tax.service.gov.uk/hmrc-design-patterns/welsh-language-toggle/)
+
+[Understanding Success Criterion 3.1.2: Language of Parts](https://www.w3.org/WAI/WCAG21/Understanding/language-of-parts.html)
